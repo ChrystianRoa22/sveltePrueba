@@ -17,6 +17,6 @@
 </style>
 
 <section>
-	<h1>Search movies</h1>
+	<h1>Search movies suaves</h1>
 	<Input />
 </section>
